@@ -15,3 +15,4 @@ if (operacion === 'leer') {
 if (operacion === 'eliminar') {
   const nombre = process.argv[3];
   eliminar(nombre);
+}
